@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/469e89tf4wp3civm/branch/main?svg=true)](https://ci.appveyor.com/project/Artem-Molchanov/bdd-banktransfer-balance-test/branch/main)
